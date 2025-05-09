@@ -29,7 +29,7 @@ Material referente à disciplina Inteligência Aplicada a Automação
 Carvalho Junior</a>.
 </p>
 
-<img src="Imagens/foto.jpg" class="center" style="width:10%">
+<img src="Imagens/foto.jpg" class="center" style="width:20%">
 
 <p>
 
