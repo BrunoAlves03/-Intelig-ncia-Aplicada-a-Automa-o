@@ -14,7 +14,7 @@
 <body>
 
 <font face="Arial"> <font size="4">
-<img src="Imagens/Logo_Dourado.jpg" class="center" style="width:30%">
+<img src="Imagens/Logo_Dourado.jpg" class="center" style="width:40%">
 
 <h1>
 
@@ -29,7 +29,7 @@ Material referente à disciplina Inteligência Aplicada a Automação
 Carvalho Junior</a>.
 </p>
 
-<img src="Imagens/foto.jpg" class="center" style="width:20%">
+<img src="Imagens/foto.jpg" class="center" style="width:15%">
 
 <p>
 
