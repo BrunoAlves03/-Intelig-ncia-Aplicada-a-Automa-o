@@ -8,13 +8,17 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<title>
+
+Inteligência Aplicada a Automação
+</title>
 
 </head>
 
 <body>
 
 <font face="Arial"> <font size="4">
-<img src="Imagens/Logo_Dourado.jpg" class="center" style="width:40%">
+<img src="Imagens/Logo_Dourado.jpg" class="center" style="width:30%">
 
 <h1>
 
@@ -29,7 +33,7 @@ Material referente à disciplina Inteligência Aplicada a Automação
 Carvalho Junior</a>.
 </p>
 
-<img src="Imagens/foto.jpg" class="center" style="width:15%">
+<img src="Imagens/foto.jpg" class="center" style="width:10%">
 
 <p>
 
@@ -72,6 +76,13 @@ Edge Impulse- REV2_acj</a>
 
 <a href="https://drive.google.com/drive/folders/1ewIZBPacgiirGElmqe-rSKtlBgAcnx7v">Exercícios</a>
 </p>
+
+<p><a href="https://drive.google.com/file/d/1yDSAqzcNkkwx4tzWfslpAZ_F49_FeFYg/view">eBOOKs IA</a></p>
+
+<p><a href="https://github.com/BrunoAlves03/AI_Course/blob/main/POSTS%20EAILAB%20Vol%201%202024.pdf">POSTS EAILAB Vol 1 2024</a></p>
+
+
+
 
 <h2>
 
